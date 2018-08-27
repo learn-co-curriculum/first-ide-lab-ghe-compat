@@ -24,7 +24,7 @@
 
   If you haven't already:
   <br>
-  <a href="https://learn.co/ide-3/download"><img height="56px" width="auto" style="display: inline;" src="//s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/download-ide-button.png" /></a>
+  <a href="https://learn.co/ide-3/download"><img height="56px" width="auto" style="display: inline;" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/download-ide-button.png" /></a>
 
 
   <h1>1. Opening a Lab with the Learn IDE</h1>
@@ -35,7 +35,7 @@
 
   Whenever you're on a lab in Learn that requires the Learn IDE, you'll see an "Open Button" on the Lab's header.
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-sample-header.png" style="border: 1px solid #000; display: block" alt="Lab Header">
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-sample-header.png" style="border: 1px solid #000; display: block" alt="Lab Header">
 
   <br>
 
@@ -53,7 +53,7 @@
 
   Once you login to the IDE, come back to your web browser and continue reading this guide.
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-login.png" style="display: block; border: 1px solid #000"/>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-login.png" style="display: block; border: 1px solid #000"/>
 
   <br>
 
@@ -61,25 +61,25 @@
 
   Once you login to the Learn IDE, the lab should open and should look something like:
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-ide.png" style="display: block"/>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-ide.png" style="display: block"/>
 
   <h1>3. Navigate Folders with the File Tree</h1>
 
   <br>
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-file-tree.png" style="display: block"/>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-file-tree.png" style="display: block"/>
 
   <br>
 
   The File Tree in the IDE is a way to browse the file and folders in the lab. It works a lot like a file browser on your computer, showing you the top level folder on top, generally the lab name, and then all the files and folders inside the folder.
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-expanded-tree.png" style="display: block"/>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-expanded-tree.png" style="display: block"/>
 
   <br>
 
   A folder is represented in the file tree with a Folder icon and a `>` showing that it is currently folded or closed, hiding the files inside it. If you click on the folder you can expand it or open it, revealing the files inside the directory.
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-context-menu.png" style="display: block"/>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-context-menu.png" style="display: block"/>
 
   <br>
 
@@ -93,7 +93,7 @@
 
   <strong>After opening this lab with the "Open" button, use the File Tree and click on the file <code>edit-me.txt</code> to open it.</strong>
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/opening-a-file.png" style="display: block"/>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/opening-a-file.png" style="display: block"/>
 
   <h1>5. Edit a File with the Text Editor</h1>
 
@@ -106,7 +106,7 @@
 
   <strong>If you've clicked on <code>edit-me.txt</code> as described in how to open a file, you should see a tab now with the title <code>edit-me.txt</code>. The file is totally empty. Go ahead and write anything in the file, <code>Hello World!</code>, your name, anything. To pass this lab all you need to do is not have a blank <code>edit-me.txt</code> file.</strong>
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/editing-a-file.png" style="display: block"/>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/editing-a-file.png" style="display: block"/>
 
   <h1>6. Saving a File</h1>
 
@@ -116,8 +116,8 @@
 
   <br>
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/saving-a-file.png" style="display: inline"/>
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/saved-edited-file.png" style="display: inline"/>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/saving-a-file.png" style="display: inline"/>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/saved-edited-file.png" style="display: inline"/>
 
 
   <br>
@@ -126,13 +126,13 @@
 
   <h1>7. Running a Command with Your Terminal</h1>
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/ide-terminal.png" style="display: block"/>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/ide-terminal.png" style="display: block"/>
 
   <br>
 
   On the bottom of the IDE is a Terminal. This is your access point to your development environment that the Learn IDE provides. As a programmer, we use the terminal for a lot of tasks including actually running our code and programs and executing commands. You're going to learn a lot about how to use a Terminal, but for now, know that you can type certain commands into it. Let's try one, <code>ls</code> (the letter <code>L</code>, but lowercase, and the letter <code>S</code>, but lowercase). Click into the terminal, then type <code>ls</code> and press enter to execute the command.
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/ls-terminal.png" style="display: block"/>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/ls-terminal.png" style="display: block"/>
 
   <br>
 
@@ -142,7 +142,7 @@
 
   <br>
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/pwd-terminal.png" style="display: block"/>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/pwd-terminal.png" style="display: block"/>
 
   <br>
 
@@ -159,7 +159,7 @@
 
   The challenge of this lab is to edit the file <code>edit-me.txt</code>. When that file is empty, if you run <code>learn</code> from your terminal, you would see:
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/failing-test.png" style="display: block"/>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/failing-test.png" style="display: block"/>
 
   <br>
 
@@ -176,7 +176,7 @@
 
   Once you edit <code>edit-me.txt</code> to contain any text and not be empty, if you re-run <code>learn</code> from your terminal, you would see:
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/passing-test.png" style="display: block"/>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/passing-test.png" style="display: block"/>
 
   <br>
 
@@ -188,8 +188,8 @@
 
   <br>
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/failing-lights.png" style="display: inline"/>
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/passing-lights.png" style="display: inline"/>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/failing-lights.png" style="display: inline"/>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/passing-lights.png" style="display: inline"/>
 
   <br>
   <br>
@@ -202,7 +202,7 @@
 
   The last step to completing a lab with the Learn IDE is to submit it. You can do this at anytime by typing <code>learn submit</code> in your terminal.
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-submit.png" style="display: block"/>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-submit.png" style="display: block"/>
 
   <br>
 
@@ -282,7 +282,7 @@
 
   Whenever you're on a lab in Learn that requires the Learn IDE, you'll see an "Open IDE" button on the Lab's header.
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-sample-header.png" style="display: block"/>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-sample-header.png" style="display: block"/>
 
   <br>
 
@@ -298,23 +298,23 @@
 
   You can click on Full Screen to have the IDE take over your browser window.
 
-  <img src="//s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/splitscreenidetext.png" style="display: block;" height="auto" width="auto"/>
+  <img src="https://s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/splitscreenidetext.png" style="display: block;" height="auto" width="auto"/>
   <br>
 
 
   To view the IDE at Split Screen (the default when you open a lab in the IDE) you click Split Screen.
 
-  <img src="//s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/fullscreenidetext.png" style="display: block;" height="auto" width="auto"/>
+  <img src="https://s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/fullscreenidetext.png" style="display: block;" height="auto" width="auto"/>
 
   <br>
 
   You can open or hide the file tree when you are in Split Screen, so you have more room to work in the text editor and terminal.
 
-  <img src="//s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/filetreeopen.png" style="display: block;" height="auto" width="auto"/>
+  <img src="https://s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/filetreeopen.png" style="display: block;" height="auto" width="auto"/>
   <br>
 
 
-  <img src="//s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/filetreehidden.png" style="display: block;" height="auto" width="auto"/>
+  <img src="https://s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/filetreehidden.png" style="display: block;" height="auto" width="auto"/>
   <br>
 
   <h1>2. Navigate Folders with the File Tree</h1>
@@ -328,22 +328,22 @@
 
   A folder (called a directory), is represented in the file tree with a Folder icon and a `>` showing that it is currently folded or closed, hiding the files inside it. If you click on the folder you can expand it or open it, revealing the files inside the directory.
 
-  <img src="//s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/openingdirectory.png" style="display: block;" height="auto" width="auto"/>
+  <img src="https://s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/openingdirectory.png" style="display: block;" height="auto" width="auto"/>
   <br>
 
   You can "Right Click" on any directory in the File Tree and a context menu will appear, giving you options to create a new file or directory, or rename, move, duplicate, or delete the selected directory. When creating a new file or new directory via the context menu, it will be created within the directory you right clicked on, so in the image below, the right click occurred within the <code>spec</code> directory, so any new file created would appear there. If you "Right Click" on a file you will see options to rename, move, duplicate, or delete the selected file.
 
-  <img src="//s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/menu.png" style="display: block;" height="auto" width="auto"/>
+  <img src="https://s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/menu.png" style="display: block;" height="auto" width="auto"/>
   <br>
 
   You can also add a file or directory by clicking the "Create New +" button at the bottom of the file tree.
 
-  <img src="//s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/createnew.png" style="display: block;" height="auto" width="auto"/>
+  <img src="https://s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/createnew.png" style="display: block;" height="auto" width="auto"/>
   <br>
 
   When you create a file or directory from this button, you can define the path of the file or directory.
 
-  <img src="//s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/createnewpath.png" style="display: block;" height="auto" width="auto"/>
+  <img src="https://s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/createnewpath.png" style="display: block;" height="auto" width="auto"/>
   <br>
 
   <h1>3. Open a File from the File Tree</h1>
@@ -357,7 +357,7 @@
 
   <strong>After opening this lab with the "Open IDE" button, use the File Tree and click on the file <code>edit-me.txt</code> to open it.</strong>
 
-  <img src="//s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/editme.png" style="display: block;" height="auto" width="auto"/>
+  <img src="https://s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/editme.png" style="display: block;" height="auto" width="auto"/>
   <br>
 
   <h1>4. Edit a File with the Text Editor</h1>
@@ -371,7 +371,7 @@
 
   <strong>If you've clicked on <code>edit-me.txt</code> as described in "Open a File from the File Tree, you should see a tab now with the title <code>edit-me.txt</code>. The file is totally empty. Go ahead and write anything in the file, <code>Hello World!</code>, your name, anything. To pass this lab all you need to do is not have a blank <code>edit-me.txt</code> file.</strong>
 
-  <img src="//s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/helloworld.png" style="display: block;" height="auto" width="auto"/>
+  <img src="https://s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/helloworld.png" style="display: block;" height="auto" width="auto"/>
   <br>
 
   <h1>5. Saving a File</h1>
@@ -380,9 +380,9 @@
 
   After you edit a file, you must save it. The file tab in the text editor will indicate if the file has been changed and not saved by putting a dot on the right corner of the tab. Once you're done editing a file, save it by pressing ⌘+S (Command and S at the same time) on a Mac, or Ctrl+S (Control and S at the same time) on Windows.
 
-  <img src="//s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/notsaved.png" style="display: inline-block;" height="auto" width="auto"/>
+  <img src="https://s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/notsaved.png" style="display: inline-block;" height="auto" width="auto"/>
 
-  <img src="//s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/saved.png" style="display: inline-block;" height="auto" width="auto"/>
+  <img src="https://s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/saved.png" style="display: inline-block;" height="auto" width="auto"/>
   <br>
   <br>
 
@@ -393,7 +393,7 @@
 
   At the bottom right of the IDE you will see a timestamp of when your work was last saved.
 
-  <img src="//s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/lastsaved.png" style="display: block;" height="auto" width="auto"/>
+  <img src="https://s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/lastsaved.png" style="display: block;" height="auto" width="auto"/>
 
   <br>
 
@@ -405,7 +405,7 @@
 
   On the bottom of the IDE is a Terminal. This is your access point to your development environment that the Learn IDE provides. As a programmer, we use the terminal for a lot of tasks including actually running our code and programs and executing commands. You're going to learn a lot about how to use a Terminal, but for now, know that you can type certain commands into it. Let's try one, <code>ls</code> (the letter <code>L</code>, but lowercase, and the letter <code>S</code>, but lowercase). Click into the terminal, then type <code>ls</code> and press enter to execute the command.
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/ls-terminal.png" style="display: block"/>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/ls-terminal.png" style="display: block"/>
 
   <br>
   <br>
@@ -416,7 +416,7 @@
 
   Try another one, from your terminal, type <code>pwd</code>, which stands for print working directory, which is the current directory the terminal is in.
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/pwd-terminal.png" style="display: block"/>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/pwd-terminal.png" style="display: block"/>
 
   <br>
 
@@ -433,7 +433,7 @@
 
   The challenge of this lab is to edit the file <code>edit-me.txt</code>. When that file is empty, if you run <code>learn</code> from your terminal, you would see:
 
-  <img src="//s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/learntestfail.png" style="display: block;" height="auto" width="auto"/>
+  <img src="https://s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/learntestfail.png" style="display: block;" height="auto" width="auto"/>
 
   <br>
 
@@ -452,7 +452,7 @@
 
   Once you edit <code>edit-me.txt</code> to contain any text and not be empty, if you re-run <code>learn</code> from your terminal, you would see:
 
-  <img src="//s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/learntestpass.png" style="display: block;" height="auto" width="auto"/>
+  <img src="https://s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/learntestpass.png" style="display: block;" height="auto" width="auto"/>
 
   <br>
 
@@ -469,7 +469,7 @@
 
   The last step to completing a lab with the Learn IDE is to submit it. You can do this at anytime by typing <code>learn submit</code> in your terminal.
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-submit.png" style="display: block;"/>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-submit.png" style="display: block;"/>
 
   <br>
 
